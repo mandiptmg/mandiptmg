@@ -2,7 +2,7 @@
 ## Front-End Developer
 ![Front-End Developer](https://pbs.twimg.com/profile_banners/1534467576688181254/1709633604/1500x500)
 
-I'm Mandip from Nepal . My passion lies in exploring languages and frameworks, especially React and Next.js. In my web development journey, I've embraced challenges, leveraging React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, Redux-Toolkit, Firebase, HTML, and CSS to craft elegant, functional solutions. 
+I'm Mandip from Nepal . My passion lies in exploring languages and frameworks, especially React and Next.js. In my web development journey, I've embraced challenges, leveraging React.js, Next.js, Laravel, Mysql, JavaScript, TypeScript, Tailwind CSS, Redux-Toolkit, Firebase, HTML, and CSS to craft elegant, functional solutions. 
 
 - 🌱 I’m currently learning MERN Stack developer 
 - 👯 I’m looking to collaborate on Full-Stack project  
