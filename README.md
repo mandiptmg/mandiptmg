@@ -1,10 +1,10 @@
 ## Hi there 👋,  Mandip Tamang
-## Front-End Developer
-![Front-End Developer](https://pbs.twimg.com/profile_banners/1534467576688181254/1709633604/1500x500)
+## Full Stack Developer
+![Full Stack Developer](https://media.licdn.com/dms/image/v2/D4D16AQHXM8CVCBVPbw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723999794897?e=1729728000&v=beta&t=_CHSTKTY08OlpUexDu1z-9hbHNuGuRmb8KwP9IrygF8)
 
-I'm Mandip from Nepal . My passion lies in exploring languages and frameworks, especially React and Next.js. In my web development journey, I've embraced challenges, leveraging React.js, Next.js, Laravel, Mysql, JavaScript, TypeScript, Tailwind CSS, Redux-Toolkit, Firebase, HTML, and CSS to craft elegant, functional solutions. 
+I’m Mandip from Nepal, with a deep passion for exploring languages and frameworks, particularly React and Next.js. My journey in web development has been marked by embracing challenges and continuously pushing the boundaries of what's possible. I have honed my skills in React.js, Next.js, Laravel, and MySQL, combining them with JavaScript, TypeScript, Tailwind CSS, Redux-Toolkit, Firebase, HTML, and CSS to create elegant, functional, and scalable solutions.
 
-- 🌱 I’m currently learning MERN Stack developer 
+- 🌱 I’m continuous learning new programming language 
 - 👯 I’m looking to collaborate on Full-Stack project  
 - 💬 Ask me about JavaScript, React, Nextjs, Tailwind css
 -  ✌️ &emsp;Enjoy to do programming and sharing knowledge
@@ -32,6 +32,8 @@ I'm Mandip from Nepal . My passion lies in exploring languages and frameworks, e
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
