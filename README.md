@@ -12,7 +12,7 @@ I’m Mandip from Nepal, with a deep passion for exploring languages and framewo
 
 <p align="center">
  <a href="https://mandiptamang.vercel.app" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mandip" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH9zPiWGqVZyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725382501520?e=1731542400&v=beta&t=2hhvkQEuLtDxi7d-N7rpH5_t9lVEeqpL3axj3NU8ZAQ" alt="mandip" />
  </a>
  <a href="https://linkedin.com/in/mandip-tamang" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mandip"/>
