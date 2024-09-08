@@ -1,6 +1,6 @@
 ## Hi there 👋,  Mandip Tamang
 ## Full Stack Developer
-![Full Stack Developer](https://media.licdn.com/dms/image/v2/D4D16AQHXM8CVCBVPbw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723999794897?e=1729728000&v=beta&t=_CHSTKTY08OlpUexDu1z-9hbHNuGuRmb8KwP9IrygF8)
+![Full Stack Developer](https://media.licdn.com/dms/image/v2/D4D16AQH9zPiWGqVZyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725382501520?e=1731542400&v=beta&t=2hhvkQEuLtDxi7d-N7rpH5_t9lVEeqpL3axj3NU8ZAQ)
 
 I’m Mandip from Nepal, with a deep passion for exploring languages and frameworks, particularly React and Next.js. My journey in web development has been marked by embracing challenges and continuously pushing the boundaries of what's possible. I have honed my skills in React.js, Next.js, Laravel, and MySQL, combining them with JavaScript, TypeScript, Tailwind CSS, Redux-Toolkit, Firebase, HTML, and CSS to create elegant, functional, and scalable solutions.
 
@@ -12,7 +12,8 @@ I’m Mandip from Nepal, with a deep passion for exploring languages and framewo
 
 <p align="center">
  <a href="https://mandiptamang.vercel.app" target="blank">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH9zPiWGqVZyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725382501520?e=1731542400&v=beta&t=2hhvkQEuLtDxi7d-N7rpH5_t9lVEeqpL3axj3NU8ZAQ" alt="mandip" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mandip" />
+  
  </a>
  <a href="https://linkedin.com/in/mandip-tamang" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mandip"/>
