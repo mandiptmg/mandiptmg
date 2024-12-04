@@ -1,7 +1,6 @@
 ## Hi there 👋,  Mandip Tamang
 ## Full Stack Developer
-![Full Stack Developer](https://media.licdn.com/dms/image/v2/D4D16AQH9zPiWGqVZyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725382501520?e=1731542400&v=beta&t=2hhvkQEuLtDxi7d-N7rpH5_t9lVEeqpL3axj3NU8ZAQ)
-
+![Full Stack Developer](https://media.licdn.com/dms/image/v2/D4D16AQH9zPiWGqVZyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725382501520?e=1738800000&v=beta&t=SVqLxc8lmGVTS5sj_f42UFokYgVw3aMMcwXeuM63KQ8)
 I’m Mandip from Nepal, with a deep passion for exploring languages and frameworks, particularly React and Next.js. My journey in web development has been marked by embracing challenges and continuously pushing the boundaries of what's possible. I have honed my skills in React.js, Next.js, Laravel, and MySQL, combining them with JavaScript, TypeScript, Tailwind CSS, Redux-Toolkit, Firebase, HTML, and CSS to create elegant, functional, and scalable solutions.
 
 - 🌱 I’m continuous learning new programming language 
