@@ -3,11 +3,11 @@
 
 ![Full Stack Developer](https://media.licdn.com/dms/image/v2/D4D16AQH9zPiWGqVZyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725382501520?e=1738800000&v=beta&t=SVqLxc8lmGVTS5sj_f42UFokYgVw3aMMcwXeuM63KQ8)
 
-I’m Mandip, a passionate developer with a focus on **React**, **Next.js**, and **Full Stack development**. I love exploring new technologies and frameworks, and I have hands-on experience with **React.js**, **Next.js**, **Laravel**, **MySQL**, **JavaScript**, **TypeScript**, **Tailwind CSS**, **Redux-Toolkit**, **Firebase**, **HTML**, and **CSS**. My journey has been about solving complex problems while building elegant, functional, and scalable web applications.
+I’m Mandip, a passionate developer with a focus on **React**, **Spring boot**, and **Full Stack development**. I love exploring new technologies and frameworks, and I have hands-on experience with **React.js**, **Next.js**, **Laravel**, **Spring Boot**, **MySQL**, **Docker**, **JavaScript**, **TypeScript**, **Tailwind CSS**, **Redux-Toolkit**, **Firebase**, **HTML**, and **CSS**. My journey has been about solving complex problems while building elegant, functional, and scalable web applications.
 
 ### 🌱 I’m continuously learning new programming languages.
 ### 👯 I’m looking to collaborate on **Full-Stack projects**.
-### 💬 Ask me about **JavaScript**, **React**, **Next.js**, **Tailwind CSS**, and **Laravel**.
+### 💬 Ask me about **JavaScript**, **React**, **Next.js**, **Spring Boot**, **Docker**, **Tailwind CSS**, and **Laravel**.
 ### ✌️ I enjoy **programming** and **sharing knowledge**.
 ### ❤️ I love **writing code** and **learning new features**.
 
@@ -48,6 +48,8 @@ I’m Mandip, a passionate developer with a focus on **React**, **Next.js**, and
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <br />
 
 ---
@@ -70,12 +72,3 @@ I’m Mandip, a passionate developer with a focus on **React**, **Next.js**, and
 <a href="https://github.com/mandiptmg">
   <img alt="Mandip Tamang's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mandiptmg&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
 </a>
-
----
-
-### Key Improvements:
-- Made the intro text clearer and more focused.
-- Added a **GitHub Stats** section to highlight your contributions and top languages.
-- Organized sections with headers for better readability.
-  
-Let me know if you'd like further adjustments!
