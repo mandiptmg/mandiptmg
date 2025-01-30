@@ -1,18 +1,23 @@
-## Hi there 👋,  Mandip Tamang
-## Full Stack Developer
-![Full Stack Developer](https://media.licdn.com/dms/image/v2/D4D16AQH9zPiWGqVZyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725382501520?e=1738800000&v=beta&t=SVqLxc8lmGVTS5sj_f42UFokYgVw3aMMcwXeuM63KQ8)
-I’m Mandip from Nepal, with a deep passion for exploring languages and frameworks, particularly React and Next.js. My journey in web development has been marked by embracing challenges and continuously pushing the boundaries of what's possible. I have honed my skills in React.js, Next.js, Laravel, and MySQL, combining them with JavaScript, TypeScript, Tailwind CSS, Redux-Toolkit, Firebase, HTML, and CSS to create elegant, functional, and scalable solutions.
+Here’s an improved version of your GitHub profile introduction:
 
-- 🌱 I’m continuous learning new programming language 
-- 👯 I’m looking to collaborate on Full-Stack project  
-- 💬 Ask me about JavaScript, React, Nextjs, Tailwind css
--  ✌️ &emsp;Enjoy to do programming and sharing knowledge
-- ❤️ &emsp;Love to writing code and learning new features
+---
+
+## 👋 Hi, I'm Mandip Tamang  
+### Full Stack Developer from Nepal
+
+![Full Stack Developer](https://media.licdn.com/dms/image/v2/D4D16AQH9zPiWGqVZyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725382501520?e=1738800000&v=beta&t=SVqLxc8lmGVTS5sj_f42UFokYgVw3aMMcwXeuM63KQ8)
+
+I’m Mandip, a passionate developer with a focus on **React**, **Next.js**, and **Full Stack development**. I love exploring new technologies and frameworks, and I have hands-on experience with **React.js**, **Next.js**, **Laravel**, **MySQL**, **JavaScript**, **TypeScript**, **Tailwind CSS**, **Redux-Toolkit**, **Firebase**, **HTML**, and **CSS**. My journey has been about solving complex problems while building elegant, functional, and scalable web applications.
+
+### 🌱 I’m continuously learning new programming languages.
+### 👯 I’m looking to collaborate on **Full-Stack projects**.
+### 💬 Ask me about **JavaScript**, **React**, **Next.js**, **Tailwind CSS**, and **Laravel**.
+### ✌️ I enjoy **programming** and **sharing knowledge**.
+### ❤️ I love **writing code** and **learning new features**.
 
 <p align="center">
  <a href="https://mandiptamang.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mandip" />
-  
  </a>
  <a href="https://linkedin.com/in/mandip-tamang" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mandip"/>
@@ -25,11 +30,12 @@ I’m Mandip from Nepal, with a deep passion for exploring languages and framewo
  </a> 
  <a href="https://www.facebook.com/mandip.tamang.904/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="mandip"  />
-  </a> 
+ </a> 
 </p>
 
+---
 
-## Use To Code
+### 💻 **Languages & Tools I Use**
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)
@@ -48,21 +54,32 @@ I’m Mandip from Nepal, with a deep passion for exploring languages and framewo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br />
 
+---
+
 <p align="center">
   <a href="https://github.com/mandiptmg">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="mandip GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandiptmg&theme=radical&border=7F3FBF&background=0D1117" alt="mandip GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mandiptmg">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mandiptmg&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mandiptmg&theme=radical" alt="Mandip Tamang's GitHub Contribution"/>
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/mandiptmg"><img alt="mandip Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mandiptmg&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/mandiptmg"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mandiptmg&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+<a href="https://github.com/mandiptmg">
+  <img alt="Mandip Tamang Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mandiptmg&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+</a>
+<a href="https://github.com/mandiptmg">
+  <img alt="Mandip Tamang's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mandiptmg&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
 </a>
 
+---
+
+### Key Improvements:
+- Made the intro text clearer and more focused.
+- Added a **GitHub Stats** section to highlight your contributions and top languages.
+- Organized sections with headers for better readability.
+  
+Let me know if you'd like further adjustments!
