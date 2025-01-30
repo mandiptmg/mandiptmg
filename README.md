@@ -1,7 +1,3 @@
-Here’s an improved version of your GitHub profile introduction:
-
----
-
 ## 👋 Hi, I'm Mandip Tamang  
 ### Full Stack Developer from Nepal
 
