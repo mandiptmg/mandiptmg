@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Mandip Tamang  
 ### Full Stack Developer from Nepal
 
-![Full Stack Developer](https://media.licdn.com/dms/image/v2/D4D16AQH9zPiWGqVZyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725382501520?e=1738800000&v=beta&t=SVqLxc8lmGVTS5sj_f42UFokYgVw3aMMcwXeuM63KQ8)
+![Full Stack Developer](https://media.licdn.com/dms/image/v2/D4D16AQH9zPiWGqVZyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725382501520?e=1751500800&v=beta&t=rHUtRsZzpRFzWXjMgaNtr89vcgYYg05RWOdLxoAOF_8)
 
 I’m Mandip, a passionate developer with a focus on **React**, **Spring boot**, and **Full Stack development**. I love exploring new technologies and frameworks, and I have hands-on experience with **React.js**, **Next.js**, **Laravel**, **Spring Boot**, **MySQL**, **Docker**, **JavaScript**, **TypeScript**, **Tailwind CSS**, **Redux-Toolkit**, **Firebase**, **HTML**, and **CSS**. My journey has been about solving complex problems while building elegant, functional, and scalable web applications.
 
