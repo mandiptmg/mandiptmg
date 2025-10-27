@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Mandip Tamang  
 ### 💻 Full Stack Developer | 🇳🇵 Nepal
 
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQH9zPiWGqVZyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725382501520?e=1751500800&v=beta&t=rHUtRsZzpRFzWXjMgaNtr89vcgYYg05RWOdLxoAOF_8)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQH9zPiWGqVZyQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1725382501520?e=2147483647&v=beta&t=ZyoM8id8JoXc1DmYEZvbbh0kRVHXlD9I9TfK3GfrLWA)
 
 I'm a passionate developer with a focus on **React**, **Spring Boot**, and **Full Stack Development**. I love solving real-world problems through clean, scalable, and efficient code.
 
